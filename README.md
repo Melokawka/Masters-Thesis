@@ -7,7 +7,7 @@ For this purpose an open-source Unity application was designed and implemented,
 enabling customizable parameterization of generated video clips and scenes. 
 The large potential of synthetic generators to introduce multi-modality of data is considered and might lead to the built application
 eventually being useful even outside of dynamic camera shot classification. 
-The synthetic clip generator was used to generate a compact prototype of synthetic dynamic shot dataset. 
+The synthetic clip generator was used to generate a compact prototype of a synthetic dynamic shot dataset. 
 The choice of dataset generation parameters was discussed and both the parameters 
 and generated data were evaluated using video Deep Learning methods like 3D convolutions and the Video Transformer. 
 An approach to automated rating of synthetic data quality was proposed.
