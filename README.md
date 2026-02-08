@@ -1,6 +1,6 @@
 # Camera Movement Classification Using a Deep Learning Model Trained on Synthetic Video Clips 
-Table of contents	
 ```
+Table of contents	
 Introduction
 1.	Definition of the problem	
 1.1.	Characteristics of the problem	
