@@ -1,5 +1,6 @@
 # Camera Movement Classification Using a Deep Learning Model Trained on Synthetic Video Clips 
 # Summary
+<div style="text-align: justify;">
 Dynamic camera shot classification is a field that due to copyright and the significant data requirement of modern Deep Learning
 can benefit greatly from synthetic data generation. 
 The thesis modeled camera movement in a way that allows it to be generated synthetically. 
@@ -12,6 +13,7 @@ The choice of dataset generation parameters was discussed and both the parameter
 and generated data were evaluated using video Deep Learning methods like 3D convolutions and the Video Transformer. 
 An approach to automated rating of synthetic data quality was proposed.
 # Table of contents	
+</div>
 ```
 Introduction
 1.	Definition of the problem	
