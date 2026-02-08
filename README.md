@@ -1,7 +1,7 @@
 # Camera Movement Classification Using a Deep Learning Model Trained on Synthetic Video Clips 
 Table of contents	
-Introduction
 ```
+Introduction
 1.	Definition of the problem	
 1.1.	Characteristics of the problem	
 1.2.	Limitations of using real-life cinema video datasets	
@@ -16,13 +16,12 @@ Introduction
 3.1.	Synthetic video clip generator	
 3.2.	Synthetic dynamic camera shot dataset	
 3.3.	Tests with the use of synthetic data
-```
 Conclusions	
 References	
 List of figures	
 List of tables	
 Summary	
-
+```
 # Summary
 Dynamic camera shot classification is a field that due to copyright and the significant data requirement of modern Deep Learning
 can benefit greatly from synthetic data generation. 
